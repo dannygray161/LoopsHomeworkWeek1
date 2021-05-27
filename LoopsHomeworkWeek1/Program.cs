@@ -12,7 +12,7 @@ namespace LoopsHomeworkWeek1
         {
             //FIRST PROBLEM
             // GENERATE ****
-            //          ****
+            //          **** 
             //          ****
 
             //for (int j = 0; j < 4; j++)
